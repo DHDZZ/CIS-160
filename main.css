@@ -1,0 +1,47 @@
+@charset "utf-8";
+/*
+    Author: Daniel Hernandez
+    Date: 2-23-2022  
+   
+    Filename: main.css
+
+*/
+
+html {
+
+    background-color: #dcdcde;
+
+
+}
+
+body {
+    background-color: transparent;
+    font-family: Garamond, serif;
+}
+
+header {background-color: beige;
+        
+}
+
+/* Heading Styles */
+
+h1 {
+    color: black;
+    font-family: Garamond, serif;   
+}
+
+nav > ol {line-height: 1.5em;
+    
+}
+
+section {
+    
+    background-color: ghostwhite;
+    font-size: 1.0em;
+    color: black;
+    width: 95%;
+}
+
+footer {
+    background-color:beige;
+}
